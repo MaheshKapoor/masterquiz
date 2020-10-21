@@ -1,0 +1,23 @@
+<div class="container">
+  <!-- title -->
+  <div class="row" >
+    <h2>{{ quizTitle }}</h2>
+  </div>
+  <div class="row">
+
+    <!-- Quiz question -->
+    <div *ngIf="showQuiz">
+      <app-quiz-question [quiz]="quiz"></app-quiz-question>
+      <div class="row justify-content-md-center">
+        <button type="button" class="btn btn-outline-primary" (click)="onSubmit()">Submit</button>
+      </div>
+    </div>
+
+    <!--Quiz Answer -->
+    <div *ngIf="showQuizAnswer">
+      <app-quiz-answer [quiz]="quiz" [totalScore]="totalScore"></app-quiz-answer>
+    </div>
+
+  </div>
+</div>
+<router-outlet></router-outlet>

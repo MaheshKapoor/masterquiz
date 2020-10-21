@@ -1,0 +1,12 @@
+<div *ngFor="let question of quiz.questions; index as i">
+  <h2>{{question.questionId+1}}/{{quiz.questions.length}}</h2>
+  <h2>{{ question.question}}</h2>
+  <div class="row row-cols-2">
+    <div *ngFor="let options of question.options; index as j" >
+      <div class="">
+        <button type="button" class="btn col btn-outline-secondary" [ngClass]="{'btn-outline-info':question.answerSelected == j}" (click)="onAnswerSelection(question.questionId, j)">{{options}}</button>
+      </div>
+    </div>
+  </div>
+</div>
+<router-outlet></router-outlet>

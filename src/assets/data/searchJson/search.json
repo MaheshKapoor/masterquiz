@@ -1,0 +1,42 @@
+[
+  {
+    "language":"English",
+    "name":"HTML5 Practice Test",
+    "level":"Intermediate",
+    "id":"sample",
+    "description":"This is a Practice test to evaluate HTML5 skill.",
+    "keywords":"HTML5, HTML, Web Development",
+    "domain":"Web Development",
+    "subDomain":"HTML"
+  },
+  {
+    "language":"English",
+    "name":"HTML5 Practice Test",
+    "level":"Intermediate",
+    "id":"SGQI101",
+    "description":"This is a Practice test to evaluate HTML5 skill.",
+    "keywords":"HTML5, HTML, Web Development",
+    "domain":"General Quiz",
+    "subDomain":"Sports"
+  },
+  {
+    "language":"English",
+    "name":"HTML5 Practice Test",
+    "level":"Intermediate",
+    "id":"PGQI101",
+    "description":"This is a Practice test to evaluate Geographical knowledge.",
+    "keywords":"Rivers, Mountains, Area, Distance",
+    "domain":"General Quiz",
+    "subDomain":"Geography"
+  },
+  {
+    "language":"English",
+    "name":"HTML5 Practice Test",
+    "level":"Expert",
+    "id":"EGQE101",
+    "description":"This is a Practice test to evaluate Entertainment knowledge.",
+    "keywords":"Movie Quiz, Bollywood Quiz, Music Quiz, Hollywood Quiz, Entertainment Quiz",
+    "domain":"General Quiz",
+    "subDomain":"Entertainment"
+  }
+]

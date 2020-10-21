@@ -3,14 +3,38 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { SearchQuizComponent } from './search/search-quiz/search-quiz.component';
+import { SearchResultComponent } from './search/search-result/search-result.component';
+import { QuizzesComponent } from './quizzes/quizzes/quizzes.component';
+import { QuizComponent } from './quizzes/quiz/quiz.component';
+import { QuizQuestionComponent } from './quizzes/quiz-question/quiz-question.component';
+import { QuizAnswerComponent } from './quizzes/quiz-answer/quiz-answer.component';
+import { QuizResultComponent } from './quizzes/quiz-result/quiz-result.component';
+import { MetadataComponent } from './common/metadata/metadata.component';
+import {NgArrayPipesModule} from "ngx-pipes";
+import {CommonModule} from "@angular/common";
+import {HttpClientModule} from "@angular/common/http";
+import {FormsModule} from "@angular/forms";
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    SearchQuizComponent,
+    SearchResultComponent,
+    QuizzesComponent,
+    QuizComponent,
+    QuizQuestionComponent,
+    QuizAnswerComponent,
+    QuizResultComponent,
+    MetadataComponent
   ],
   imports: [
-    BrowserModule,
-    AppRoutingModule
+    BrowserModule.withServerTransition({ appId: 'serverApp' }),
+    AppRoutingModule,
+    NgArrayPipesModule,
+    CommonModule,
+    HttpClientModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

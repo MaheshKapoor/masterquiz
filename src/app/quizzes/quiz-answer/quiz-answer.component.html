@@ -1,0 +1,21 @@
+<app-quiz-result [quiz]="quiz" [totalScore]="totalScore"></app-quiz-result>
+<div *ngFor="let question of quiz.questions; index as x">
+  <h2>{{question.questionId+1}}.{{question.question}}</h2>
+  <div class="row row-cols-2">
+    <div *ngFor="let options of question.options; index as y">
+ <span *ngIf="y == question.answerSelected && question.answerSelected == question.answer">
+ <button type="button" class="btn btn-success col" >{{options}}</button>
+ </span>
+      <span *ngIf="y == question.answer && y != question.answerSelected">
+ <button type="button" class="btn btn-success col" >{{options}}</button>
+ </span>
+      <span *ngIf="y != question.answer && y == question.answerSelected">
+ <button type="button" class="btn btn-outline-danger col" >{{options}}</button>
+ </span>
+      <span *ngIf="y != question.answer && y != question.answerSelected">
+ <button type="button" class="btn btn-outline-secondary col" >{{options}}</button>
+ </span>
+
+    </div>
+  </div>
+</div>

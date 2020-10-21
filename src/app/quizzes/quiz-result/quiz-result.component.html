@@ -1,0 +1,9 @@
+<div class="container">
+  <div class="row">
+    <div>
+      <p>Your scored <b>{{totalScore}}/{{quiz.questions.length}}</b> in <b>{{quiz.quizTitle}}</b>.</p>
+      <app-metadata [quiz]="quiz" [totalScore]="totalScore"></app-metadata>
+    </div>
+  </div>
+</div>
+<router-outlet></router-outlet>

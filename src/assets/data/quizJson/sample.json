@@ -1,0 +1,54 @@
+{
+  "data":{
+    "quizTitle":"Sample Practice Test",
+    "quizTotalQuestions": "",
+    "quizDescription": "Good Sample quiz",
+    "quizMetaTag": "GK, SAmple",
+    "quizThumbNail": "",
+    "quizId": "Sample",
+    "quizLevel": "",
+    "quizScore": "",
+    "questions":[
+      {
+        "options":[
+          "Justin Trudeau",
+          "Narendra Modi",
+          "Scott Morrison",
+          "Mahesh Kapoor"
+        ],
+        "questionImg":null,
+        "questionId":0,
+        "question":"Who is the prime minister of Australia?",
+        "answer":2,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Scott Morrison",
+          "Justin Trudeau",
+          "Narendra Modi",
+          "Mahesh Kapoor"
+        ],
+        "questionImg":"dkt/CG095.png",
+        "questionId":1,
+        "question":"Who is the prime minister of Australia?",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Narendra Modi",
+          "Justin Trudeau",
+          "Scott Morrison",
+          "Mahesh Kapoor"
+        ],
+        "questionImg":"dkt/CG099.png",
+        "questionId":2,
+        "question":"Who is the prime minister of Australia?",
+        "answer":2,
+        "answerSelected":-1
+      }
+
+    ]
+  }
+}
