@@ -167,7 +167,7 @@
             "routes": [
               "/",
               "/quizzes",
-              "/quizzes/:quizId"
+              "/quizzes/sample"
             ]
           },
           "configurations": {

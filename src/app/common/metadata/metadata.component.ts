@@ -41,7 +41,7 @@ export class MetadataComponent implements OnInit {
   fbShare() {
     this.updateMetaTags();
     /// let url = 'http://www.facebook.com/sharer.php?u='+ 'https://practisepoint.com/quiz?id=DKTNSW00E181003020';
-    let url = "http://www.facebook.com/dialog/feed?app_id=694150900972156&display=popup&link=http://localhost:4200/quizzes/" + this.route.snapshot.paramMap.get("quizId"); //TODO
+    let url = "http://www.facebook.com/dialog/feed?app_id=694150900972156&display=popup&link=https://masterquiz-366c5.web.app/quizzes/" + this.route.snapshot.paramMap.get("quizId"); //TODO
     let newwindow = window.open(url, 'challenge to my friends ', 'height=500,width=520,top=200,left=300,resizable');
     if (window.focus) {
       newwindow.focus()
@@ -51,7 +51,7 @@ export class MetadataComponent implements OnInit {
   fbShareWithScore() {
     this.updateMetaTagsWithScore();
     /// let url = 'http://www.facebook.com/sharer.php?u='+ 'https://practisepoint.com/quiz?id=DKTNSW00E181003020';
-    let url = "http://www.facebook.com/dialog/feed?app_id=694150900972156&display=popup&link=http://localhost:4200/quizzes/" + this.route.snapshot.paramMap.get("quizId"); //TODO
+    let url = "http://www.facebook.com/dialog/feed?app_id=694150900972156&display=popup&link=https://masterquiz-366c5.web.app/quizzes/" + this.route.snapshot.paramMap.get("quizId"); //TODO
     let newwindow = window.open(url, 'challenge to my friends ', 'height=500,width=520,top=200,left=300,resizable');
     if (window.focus) {
       newwindow.focus()

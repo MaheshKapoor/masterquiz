@@ -1,8 +1,14 @@
 <div class="container">
   <div class="row">
-    <div>
-      <p>Your scored <b>{{totalScore}}/{{quiz.questions.length}}</b> in <b>{{quiz.quizTitle}}</b>.</p>
+    <div class="alert alert-light result-card" role="alert">
+      <h2 class="alert-heading result-title">{{resultTitle}}!</h2>
+      <h4 class="result-score">Your scored <b>{{totalScore}} out of {{quiz.questions.length}}</b> in <a href ="quizzes/{{quiz.quizId}}">{{quiz.quizTitle}}</a>
+      </h4>
+      <p class="result-message">{{resultRecommendation}}!</p>
+
       <app-metadata [quiz]="quiz" [totalScore]="totalScore"></app-metadata>
+       <hr>
+      <p class="mb-0 result-recommendation">{{resultMessage}}</p>
     </div>
   </div>
 </div>

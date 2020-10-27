@@ -1,3 +1,7 @@
-<p>Share your Score <button type="button" class="btn btn-outline-primary" (click)="fbShareWithScore()">share</button></p>
-<p>Share the quiz <button type="button" class="btn btn-outline-primary" (click)="fbShare()">share</button></p>
+<div class="container">
+  <div class="row">
+<button type="button" class="btn btn-outline-primary col btn-share" (click)="fbShareWithScore()">Share Score</button>
+<button type="button" class="btn btn-outline-primary col btn-share" (click)="fbShare()">Challenge others</button>
+  </div>
+</div>
 <router-outlet></router-outlet>

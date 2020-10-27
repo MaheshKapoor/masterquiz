@@ -15,6 +15,8 @@ import {NgArrayPipesModule} from "ngx-pipes";
 import {CommonModule} from "@angular/common";
 import {HttpClientModule} from "@angular/common/http";
 import {FormsModule} from "@angular/forms";
+import { NavbarComponent } from './common/navbar/navbar.component';
+import { FooterComponent } from './common/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +28,9 @@ import {FormsModule} from "@angular/forms";
     QuizQuestionComponent,
     QuizAnswerComponent,
     QuizResultComponent,
-    MetadataComponent
+    MetadataComponent,
+    NavbarComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'serverApp' }),
