@@ -1,0 +1,14 @@
+.bd-footer {
+  font-size: .875rem;
+  text-align: center;
+  background-color: #f7f7f7;
+}
+
+.bd-footer-links {
+  padding-left: 0;
+  margin-bottom: 1rem;
+}
+
+ul {
+  list-style-type: disc;
+}

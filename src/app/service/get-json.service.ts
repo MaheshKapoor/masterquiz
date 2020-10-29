@@ -11,12 +11,14 @@ export class GetJsonService {
 
 
   public getQuizJsonData (jsonName:string): Observable<any> {
-    const fileUrl = "assets/data/quizJson/" + jsonName + ".json";
+    const fileUrl = "https://www.gktrivia.com/assets/data/quizJson/" + jsonName + ".json";
+    //const fileUrl = "/assets/data/quizJson/" + jsonName + ".json";
     return this.http.get(fileUrl);
   }
 
   public getSearchJsonData (jsonName:string): Observable<any> {
-    const fileUrl = "assets/data/searchJson/" + jsonName + ".json";
+    const fileUrl = "https://www.gktrivia.com/assets/data/searchJson/" + jsonName + ".json";
+    //const fileUrl = "/assets/data/searchJson/" + jsonName + ".json";
     return this.http.get(fileUrl);
   }
 }

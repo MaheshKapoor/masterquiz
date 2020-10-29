@@ -1,0 +1,146 @@
+{
+  "data":{
+    "quizTitle":"Trivia Quiz For Smart People",
+    "quizTotalQuestions": "",
+    "quizDescription": "GKTrivia Challenge. Can you score 6/10?",
+    "quizMetaTag": "Trivia, Quiz, gk question, iq, general knowledge questions",
+    "quizThumbNail": "",
+    "quizId": "19850310",
+    "quizLevel": "Beginner",
+    "quizScore": "",
+    "questions":[
+      {
+        "options":[
+          "Matutinal",
+          "Crepuscular",
+          "Diurnal",
+          "Nocturnal"
+        ],
+        "questionImg":null,
+        "questionId":0,
+        "question":"An animal that is active at night can be called what?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Danny Boyle",
+          "Dev Patel",
+          "Freida Pinto",
+          "Robert Carlyle"
+        ],
+        "questionImg":"null",
+        "questionId":1,
+        "question":"Who is the director of Hollywood movie -Slumdog Millionaire?",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Mr. Babba",
+          "Mr. Johny",
+          "Miss Polly",
+          "Miss Sally"
+        ],
+        "questionImg":"null",
+        "questionId":2,
+        "question":"Who had a dolly who was sick, sick, sick?",
+        "answer":2,
+        "answerSelected":-1
+      },
+
+      {
+        "options":[
+          "6",
+          "7",
+          "9",
+          "8"
+        ],
+        "questionImg":null,
+        "questionId":3,
+        "question":"Adults are recommended to get how many hours of sleep per night?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Thyroid",
+          "Liver",
+          "Pituitary",
+          "Adrenals"
+        ],
+        "questionImg":null,
+        "questionId":4,
+        "question":"What is the largest gland in the human body?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "30",
+          "25",
+          "20",
+          "35"
+        ],
+        "questionImg":null,
+        "questionId":5,
+        "question":"There is a number whose double is greater than its half by 45. whats the number?",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "1999",
+          "2006",
+          "2001",
+          "2007"
+        ],
+        "questionImg":null,
+        "questionId":6,
+        "question":"When was the first iPhone released?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Thomas Jefferson",
+          "George Washington",
+          "Abraham Lincoln",
+          "Bill Clinton"
+        ],
+        "questionImg":null,
+        "questionId":7,
+        "question":"Who was the first president of the United States?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Photosynthesis ",
+          "Respiration",
+          "Photoperiodism",
+          "Tropisms"
+        ],
+        "questionImg":null,
+        "questionId":8,
+        "question":"What is the name of the process which converts carbon dioxide into Oxygen inside Plants?",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "North America",
+          "Europe",
+          "Asia",
+          "Oceania"
+        ],
+        "questionImg":null,
+        "questionId":9,
+        "question":"New Zealand is located in which continent?",
+        "answer":3,
+        "answerSelected":-1
+      }
+
+    ]
+  }
+}

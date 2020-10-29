@@ -17,6 +17,10 @@ import {HttpClientModule} from "@angular/common/http";
 import {FormsModule} from "@angular/forms";
 import { NavbarComponent } from './common/navbar/navbar.component';
 import { FooterComponent } from './common/footer/footer.component';
+import { PrivacyComponent } from './common/privacy/privacy.component';
+import { AboutusComponent } from './common/aboutus/aboutus.component';
+import { DisclaimerComponent } from './common/disclaimer/disclaimer.component';
+import { TermsComponent } from './common/terms/terms.component';
 
 @NgModule({
   declarations: [
@@ -30,7 +34,11 @@ import { FooterComponent } from './common/footer/footer.component';
     QuizResultComponent,
     MetadataComponent,
     NavbarComponent,
-    FooterComponent
+    FooterComponent,
+    PrivacyComponent,
+    AboutusComponent,
+    DisclaimerComponent,
+    TermsComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'serverApp' }),

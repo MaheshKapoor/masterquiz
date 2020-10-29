@@ -1,4 +1,4 @@
-import {Component, Input, OnInit} from '@angular/core';
+import {Component, Input, OnInit, Injectable} from '@angular/core';
 import {QuizData} from "../../model/quizData";
 
 @Component({
@@ -6,6 +6,7 @@ import {QuizData} from "../../model/quizData";
   templateUrl: './quiz-question.component.html',
   styleUrls: ['./quiz-question.component.css']
 })
+@Injectable()
 export class QuizQuestionComponent implements OnInit {
 
   @Input()
