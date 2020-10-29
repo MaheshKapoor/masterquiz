@@ -4,9 +4,20 @@
     "name":"Trivia Quiz For Smart People",
     "level":"Intermediate",
     "id":"19850310",
-    "description":"GKTrivia Challenge. Can you score 6/10?",
+    "description":"GKTrivia Challenge. Can you score 5/10?",
     "keywords":"Trivia, Quiz, gk question, iq, general knowledge question",
     "domain":"General Knowledge",
     "subDomain":"Mix"
+  },
+  {
+    "language":"English",
+    "name":"Trivia Quiz For Bollywood Lovers",
+    "level":"Intermediate",
+    "id":"19850311",
+    "description":"Trivia Bollywood Challenge. Can you score 5/10?",
+    "keywords":"Trivia, Quiz, gk question, iq, general knowledge questions, Bollywood quiz",
+    "domain":"Entertainment",
+    "subDomain":"Bollywood"
   }
+
 ]

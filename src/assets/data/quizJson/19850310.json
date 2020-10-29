@@ -2,9 +2,9 @@
   "data":{
     "quizTitle":"Trivia Quiz For Smart People",
     "quizTotalQuestions": "",
-    "quizDescription": "GKTrivia Challenge. Can you score 6/10?",
+    "quizDescription": "Trivia Challenge. Can you score 5/10?",
     "quizMetaTag": "Trivia, Quiz, gk question, iq, general knowledge questions",
-    "quizThumbNail": "",
+    "quizThumbNail": "https://www.gktrivia.com/assets/data/image/gk-5.png",
     "quizId": "19850310",
     "quizLevel": "Beginner",
     "quizScore": "",

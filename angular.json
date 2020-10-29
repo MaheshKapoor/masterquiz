@@ -167,7 +167,8 @@
             "routes": [
               "/",
               "/quizzes",
-              "/quizzes/19850310"
+              "/quizzes/19850310",
+              "/quizzes/19850311"
             ]
           },
           "configurations": {

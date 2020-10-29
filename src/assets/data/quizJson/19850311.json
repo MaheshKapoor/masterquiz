@@ -1,0 +1,146 @@
+{
+  "data":{
+    "quizTitle":"Trivia Quiz For Bollywood Lovers",
+    "quizTotalQuestions": "",
+    "quizDescription": "Trivia Bollywood Challenge. Can you score 5/10?",
+    "quizMetaTag": "Trivia, Quiz, gk question, iq, general knowledge questions, Bollywood quiz",
+    "quizThumbNail": "https://www.gktrivia.com/assets/data/image/bollywood-5.png",
+    "quizId": "19850311",
+    "quizLevel": "Beginner",
+    "quizScore": "",
+    "questions":[
+      {
+        "options":[
+          "Matutinal",
+          "Aditya Chopra",
+          "Karan Johar",
+          "Nocturnal"
+        ],
+        "questionImg":null,
+        "questionId":0,
+        "question":"Who was the director of Bollywood movie -Dilwale Dulhania Le Jayenge ?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Manish Malhotra",
+          "Dharamvir Malhotra",
+          "Baldev Singh",
+          "Raj Malhotra"
+        ],
+        "questionImg":"null",
+        "questionId":1,
+        "question":"What was the name of Shah Rukh Khan's character in Bollywood movie - Dilwale Dulhania Le Jayenge",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Julab sajna",
+          "Bukhar sajna",
+          "Payar sajna",
+          "khumar sajna"
+        ],
+        "questionImg":"null",
+        "questionId":2,
+        "question":"What was the complete lyrics of the song -Ho Gaya Hai Tujhko to __?",
+        "answer":2,
+        "answerSelected":-1
+      },
+
+      {
+        "options":[
+          "Shah Ruk Khan's friend",
+          "Shah Ruk Khan's father",
+          "Kajol's friend",
+          "Kajol's father"
+        ],
+        "questionImg":null,
+        "questionId":3,
+        "question":"What role Karan Johar played in Bollywood movie - Dilwale Dulhania Le Jayenge?",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "London",
+          "Zurich",
+          "Rome",
+          "Amsterdam"
+        ],
+        "questionImg":null,
+        "questionId":4,
+        "question":"What was the destination of the train that Kajol and Shah Ruk Khan missed in Europe?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Best Popular Film Providing Wholesome Entertainment",
+          "Best Actor",
+          "Best Actress",
+          "Best Performance in a Comic Role"
+        ],
+        "questionImg":null,
+        "questionId":5,
+        "question":"In 43rd National Film Awards, which award received by Bollywood movie - Dilwale Dulhania Le Jayenge ? ",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Delhi railway station",
+          "Ambala railway station",
+          "Chandighar railway station",
+          "Apta railway station"
+        ],
+        "questionImg":null,
+        "questionId":6,
+        "question":"Where was last scene of Bollywood movie-Dilwale Dulhania Le Jayenge was shot?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "1 Million",
+          "1 Billion",
+          "10 Billion",
+          "100 Million"
+        ],
+        "questionImg":null,
+        "questionId":7,
+        "question":"What was the estimated Box office earning by Bollywood movie-Dilwale Dulhania Le Jayenge?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Jatin–Lalit",
+          "Salim–Sulaiman",
+          "Sajid–Wajid",
+          "Vishal–Shekhar"
+        ],
+        "questionImg":null,
+        "questionId":8,
+        "question":"Who was the music director of the Bollywood movie-Dilwale Dulhania Le Jayenge?",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Farida Jalal",
+          "Achala Sachdev",
+          "Mandira Bedi",
+          "Pooja Ruparel"
+        ],
+        "questionImg":null,
+        "questionId":9,
+        "question":"Who was Kajol's younger sister in the Bollywood movie-Dilwale Dulhania Le Jayenge?",
+        "answer":3,
+        "answerSelected":-1
+      }
+
+    ]
+  }
+}
