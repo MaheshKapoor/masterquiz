@@ -1,1 +1,146 @@
-dfg
+{
+  "data":{
+    "quizTitle":"Trivia Quiz From Science School",
+    "quizTotalQuestions": "",
+    "quizDescription": "Trivia Challenge. How smartly you studied in your school?",
+    "quizMetaTag": "Trivia, Quiz, gk question, iq, general knowledge questions, science quiz",
+    "quizThumbNail": "https://www.gktrivia.com/assets/data/image/science.png",
+    "quizId": "19850317",
+    "quizLevel": "Beginner",
+    "quizScore": "",
+    "questions":[
+      {
+        "options":[
+          "Pole Star",
+          "Comet",
+          "Asteroid",
+          "Sun"
+        ],
+        "questionImg":null,
+        "questionId":0,
+        "question":"Which one of the following stars is the nearest star from the earth?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "120 days",
+          "100 days",
+          "120 hours",
+          "100 hours"
+        ],
+        "questionImg":"null",
+        "questionId":1,
+        "question":"What is the life span of RBC cells?",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Iron",
+          "Mercury",
+          "Sulphur",
+          "Hydrogen"
+        ],
+        "questionImg":"null",
+        "questionId":2,
+        "question":"Which element is excreted through human sweat?",
+        "answer":2,
+        "answerSelected":-1
+      },
+
+      {
+        "options":[
+          "6",
+          "7",
+          "9",
+          "8"
+        ],
+        "questionImg":null,
+        "questionId":3,
+        "question":"Adults are recommended to get how many hours of sleep per night?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Thyroid",
+          "Liver",
+          "Pituitary",
+          "Adrenals"
+        ],
+        "questionImg":null,
+        "questionId":4,
+        "question":"What is the largest gland in the human body?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Sodium bicarbonate",
+          "Carbon dioxide",
+          "Coke dioxide",
+          "Sodium dicarbonate"
+        ],
+        "questionImg":null,
+        "questionId":5,
+        "question":"What is the chemical name of baking soda?",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Maria Mendeleeva",
+          "Vasily Mendeleev",
+          "Ivan Mendeleev",
+          "Dmitri Mendeleev"
+        ],
+        "questionImg":null,
+        "questionId":6,
+        "question":"Who invented periodic table?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "8",
+          "7",
+          "6",
+          "0"
+        ],
+        "questionImg":null,
+        "questionId":7,
+        "question":"Pure water has a pH level of a around?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Photosynthesis ",
+          "Respiration",
+          "Photoperiodism",
+          "Tropisms"
+        ],
+        "questionImg":null,
+        "questionId":8,
+        "question":"What is the name of the process which converts carbon dioxide into Oxygen inside Plants?",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Oxygen",
+          "Helium",
+          "Hydrogen",
+          "Nitrogen"
+        ],
+        "questionImg":null,
+        "questionId":9,
+        "question":"What is the 7th element on the periodic table of elements?",
+        "answer":3,
+        "answerSelected":-1
+      }
+
+    ]
+  }
+}
