@@ -11,40 +11,131 @@
     "questions":[
       {
         "options":[
-          "Justin Trudeau",
-          "Narendra Modi",
-          "Scott Morrison",
-          "Mahesh Kapoor"
+          "Justin",
+          "Narendra",
+          "Scott",
+          "Mahesh"
         ],
         "questionImg":null,
         "questionId":0,
-        "question":"Who is the prime minister of Australia?",
+        "question":"Who?",
         "answer":2,
         "answerSelected":-1
       },
       {
         "options":[
-          "Scott Morrison",
-          "Justin Trudeau",
-          "Narendra Modi",
-          "Mahesh Kapoor"
+          "Scott",
+          "Justin",
+          "Narendra",
+          "Mahesh"
         ],
-        "questionImg":"dkt/CG095.png",
+        "questionImg":null,
         "questionId":1,
-        "question":"Who is the prime minister of Australia?",
+        "question":"Who?",
         "answer":0,
         "answerSelected":-1
       },
       {
         "options":[
-          "Narendra Modi",
-          "Justin Trudeau",
-          "Scott Morrison",
-          "Mahesh Kapoor"
+          "Narendra",
+          "Justin",
+          "Scott",
+          "Mahesh"
         ],
-        "questionImg":"dkt/CG099.png",
+        "questionImg":null,
         "questionId":2,
-        "question":"Who is the prime minister of Australia?",
+        "question":"Who?",
+        "answer":2,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Justin",
+          "Narendra",
+          "Scott",
+          "Mahesh"
+        ],
+        "questionImg":null,
+        "questionId":3,
+        "question":"Who?",
+        "answer":2,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Scott",
+          "Justin",
+          "Narendra",
+          "Mahesh"
+        ],
+        "questionImg":null,
+        "questionId":4,
+        "question":"Who?",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Narendra",
+          "Justin",
+          "Scott",
+          "Mahesh"
+        ],
+        "questionImg":null,
+        "questionId":5,
+        "question":"Who?",
+        "answer":2,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Justin",
+          "Narendra",
+          "Scott",
+          "Mahesh"
+        ],
+        "questionImg":null,
+        "questionId":6,
+        "question":"Who?",
+        "answer":2,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Scott",
+          "Justin",
+          "Narendra",
+          "Mahesh"
+        ],
+        "questionImg":null,
+        "questionId":7,
+        "question":"Who?",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Narendra",
+          "Justin",
+          "Scott",
+          "Mahesh"
+        ],
+        "questionImg":null,
+        "questionId":8,
+        "question":"Who?",
+        "answer":2,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Narendra",
+          "Justin",
+          "Scott",
+          "Mahesh"
+        ],
+        "questionImg":null,
+        "questionId":9,
+        "question":"Who?",
         "answer":2,
         "answerSelected":-1
       }

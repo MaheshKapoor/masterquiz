@@ -1,5 +1,82 @@
 [
   {
+  "language":"English",
+  "name":"Trivia Quiz From Science School",
+  "level":"Beginner",
+  "id":"19850317",
+  "description":"Trivia Challenge. How smartly you studied in your school?",
+  "keywords":"Trivia, Quiz, gk question, iq, general knowledge questions and answers, Hard Quiz, Telstra Quiz",
+  "domain":"General Knowledge",
+  "subDomain":"Science",
+  "quizThumbNail": "science.png"
+  },
+  {
+    "language":"English",
+    "name":"Telstra Quiz",
+    "level":"Beginner",
+    "id":"19850316",
+    "description":"Trivia Quiz Challenge. Do you know about Telstra enough?",
+    "keywords":"Trivia, Quiz, gk question, iq, general knowledge questions and answers, Hard Quiz, Telstra Quiz",
+    "domain":"General Knowledge",
+    "subDomain":"Corporate",
+    "quizThumbNail": "telstra.jpg"
+  },
+  {
+    "language":"English",
+    "name":"Hard Quiz for Elite People",
+    "level":"Expert",
+    "id":"19850315",
+    "description":"Trivia Quiz Challenge. Can you score 4/10?",
+    "keywords":"Trivia, Quiz, gk question, iq, general knowledge questions, Puzzles quiz",
+    "domain":"General Knowledge",
+    "subDomain":"Mix",
+    "quizThumbNail": "hard_gk.png"
+  },
+  {
+    "language":"English",
+    "name":"Australia General Knowledge 2020-2021",
+    "level":"Beginner",
+    "id":"19850314",
+    "description":"How well you know about Australia. General Knowledge Question and Answer on Australia 2020-2021",
+    "keywords":"Australia Trivia, Quiz, gk question, iq, Australia general knowledge questions, Australia quiz 2020-2021",
+    "domain":"General Knowledge",
+    "subDomain":"Australia",
+    "quizThumbNail": "australia.png"
+  },
+  {
+    "language":"English",
+    "name":"Ultimate Maths Puzzles",
+    "level":"Beginner",
+    "id":"19850313",
+    "description":"Trivia Puzzles Challenge. Can you score 7/10??",
+    "keywords":"Trivia, Quiz, gk question, iq, general knowledge questions, Maths Puzzles quiz",
+    "domain":"General Knowledge",
+    "subDomain":"Maths",
+    "quizThumbNail": "maths_puzzles.png"
+  },
+  {
+  "language":"English",
+  "name":"Quiz : Which word is spelled correctly?",
+  "level":"Beginner",
+  "id":"19850312",
+  "description":"Trivia Challenge. Can you score 9/10?",
+  "keywords":"Trivia, Quiz, gk question, iq, general knowledge questions, Spelling  quiz",
+  "domain":"General Knowledge",
+  "subDomain":"English",
+  "quizThumbNail": "Spelling.png"
+  },
+  {
+    "language":"English",
+    "name":"Trivia Quiz For Bollywood Lovers-DDLJ",
+    "level":"Intermediate",
+    "id":"19850311",
+    "description":"Trivia Bollywood Challenge. Can you score 5/10?",
+    "keywords":"Trivia, Quiz, gk question, iq, general knowledge questions, Bollywood quiz",
+    "domain":"Entertainment",
+    "subDomain":"Bollywood",
+    "quizThumbNail": "bollywood-5.png"
+  },
+  {
     "language":"English",
     "name":"Trivia Quiz For Smart People",
     "level":"Intermediate",
@@ -7,17 +84,9 @@
     "description":"GKTrivia Challenge. Can you score 5/10?",
     "keywords":"Trivia, Quiz, gk question, iq, general knowledge question",
     "domain":"General Knowledge",
-    "subDomain":"Mix"
-  },
-  {
-    "language":"English",
-    "name":"Trivia Quiz For Bollywood Lovers",
-    "level":"Intermediate",
-    "id":"19850311",
-    "description":"Trivia Bollywood Challenge. Can you score 5/10?",
-    "keywords":"Trivia, Quiz, gk question, iq, general knowledge questions, Bollywood quiz",
-    "domain":"Entertainment",
-    "subDomain":"Bollywood"
+    "subDomain":"Mix",
+    "quizThumbNail": "gk-5.png"
   }
+
 
 ]

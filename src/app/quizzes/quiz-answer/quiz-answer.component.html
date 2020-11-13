@@ -1,4 +1,9 @@
-<app-quiz-result [quiz]="quiz" [totalScore]="totalScore"></app-quiz-result>
+
+<div>
+  <br/>
+  <h2> Please find the answers</h2>
+  <hr>
+</div>
 <div *ngFor="let question of quiz.questions; index as x">
   <div class="question">
     <h2>{{question.questionId+1}}. {{ question.question}}</h2>
@@ -22,4 +27,3 @@
     </div>
   </div>
 </div>
-<app-quiz-result [quiz]="quiz" [totalScore]="totalScore"></app-quiz-result>

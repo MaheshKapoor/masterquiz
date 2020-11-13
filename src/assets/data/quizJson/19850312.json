@@ -1,0 +1,145 @@
+{
+  "data":{
+    "quizTitle":"Quiz : Which word is spelled correctly?",
+    "quizTotalQuestions": "",
+    "quizDescription": "Trivia Challenge. Can you score 9/10?",
+    "quizMetaTag": "Trivia, Quiz, gk question, iq, general knowledge questions, Spelling  quiz",
+    "quizThumbNail": "Spelling.png",
+    "quizId": "19850312",
+    "quizLevel": "Beginner",
+    "quizScore": "",
+    "questions":[
+      {
+        "options":[
+          "Benefecial",
+          "Benefetial",
+          "Benefitial",
+          "Beneficial"
+        ],
+        "questionImg":null,
+        "questionId":0,
+        "question":"Which of these words is spelled correctly?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Pronunceiation",
+          "Pronuncition",
+          "Pronunciation",
+          "Pronunciasion"
+        ],
+        "questionImg":"null",
+        "questionId":1,
+        "question":"Which of these words is spelled correctly?",
+        "answer":2,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Begenning",
+          "Beginning",
+          "Begining",
+          "Biginning"
+        ],
+        "questionImg":"null",
+        "questionId":2,
+        "question":"Which of these words is spelled correctly?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Conscious",
+          "Disipline",
+          "Disepline",
+          "Concious"
+        ],
+        "questionImg":null,
+        "questionId":3,
+        "question":"Which of these words is spelled correctly??",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Enviroment",
+          "Environment",
+          "Goverment",
+          "Governmant"
+        ],
+        "questionImg":null,
+        "questionId":4,
+        "question":"Which of these words is spelled correctly?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Autum",
+          "Colum",
+          "Coleum",
+          "Autumn"
+        ],
+        "questionImg":null,
+        "questionId":5,
+        "question":"Which of these words is spelled correctly?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Coleague",
+          "collegue",
+          "colleage",
+          "Colleague"
+        ],
+        "questionImg":null,
+        "questionId":6,
+        "question":"Which of these words is spelled correctly?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Privelege",
+          "Privilege",
+          "Privileje",
+          "Privilje"
+        ],
+        "questionImg":null,
+        "questionId":7,
+        "question":"Which of these words is spelled correctly?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Maintainance",
+          "Maintenence",
+          "Maintenance",
+          "Maintanance"
+        ],
+        "questionImg":null,
+        "questionId":8,
+        "question":"Which of these words is spelled correctly?",
+        "answer":2,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Circumstential",
+          "Circummstantial",
+          "Circumstancial",
+          "Circumstantial"
+        ],
+        "questionImg":null,
+        "questionId":9,
+        "question":"Which of these words is spelled correctly?",
+        "answer":3,
+        "answerSelected":-1
+      }
+
+    ]
+  }
+}

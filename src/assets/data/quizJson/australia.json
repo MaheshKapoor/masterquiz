@@ -1,0 +1,144 @@
+{
+  "data":{
+    "quizTitle":"Australia General Knowledge 2020-2021",
+    "quizTotalQuestions": "",
+    "quizDescription": "How well you know about Australia. General Knowledge Question and Answer on Australia 2020-2021",
+    "quizMetaTag": "Australia Trivia, Quiz, gk question, iq, Australia general knowledge questions, Australia quiz 2020-2021",
+    "quizThumbNail": "australia.png",
+    "quizId": "19850314",
+    "quizLevel": "Beginner",
+    "quizScore": "",
+    "questions":[
+      {
+        "options":[
+          "Tiger",
+          "Kangaroo",
+          "Elephant",
+          "Koala"
+        ],
+        "questionImg":null,
+        "questionId":0,
+        "question":"What is the national animal of Australia?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Canberra",
+          "Sydney",
+          "Brisbane",
+          "Melbourne"
+        ],
+        "questionImg":null,
+        "questionId":1,
+        "question":"What is the capital of Australia?",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "John Bradfield",
+          "Walter Burley Griffin",
+          "Donald Crone",
+          "Jorn Utzon"
+        ],
+        "questionImg":null,
+        "questionId":2,
+        "question":"Who was the designer of the Sydney Opera House?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Rosemary Follett",
+          "Carmen Lawrence",
+          "Julia Gillard",
+          "Vickie Chapman"
+        ],
+        "questionImg":null,
+        "questionId":3,
+        "question":"Who was the first woman Prime minister of Australia?",
+        "answer":2,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Sydney",
+          "Brisbane",
+          "Canberra",
+          "Melbourne"
+        ],
+        "questionImg":null,
+        "questionId":4,
+        "question":"In which city, famous Bondi beach is located?",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "2008",
+          "2012",
+          "1996",
+          "2000"
+        ],
+        "questionImg":null,
+        "questionId":5,
+        "question":"In which year, Sydney Olympic games were held?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "8",
+          "6",
+          "10",
+          "7"
+        ],
+        "questionImg":null,
+        "questionId":6,
+        "question":"How many states are in Australia?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Murray River",
+          "Darling River",
+          "Cooper Creek",
+          "Parramatta River"
+        ],
+        "questionImg":null,
+        "questionId":7,
+        "question":"Which is the longest river in Australia?",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Adelaide",
+          "Gold Coast",
+          "Melbourne",
+          "Sydney"
+        ],
+        "questionImg":null,
+        "questionId":8,
+        "question":"Which is the largest city in Australia by area??",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Walter Burley Griffin",
+          "Ben Van Berkel",
+          "Donald Crone",
+          "Jorn Utzon"
+        ],
+        "questionImg":null,
+        "questionId":9,
+        "question":"Who designed the capital city of Australia??",
+        "answer":0,
+        "answerSelected":-1
+      }
+    ]
+  }
+}

@@ -42,6 +42,7 @@ export class QuizComponent implements OnInit {
     console.log("test");
     console.log(this.quiz);
     this.calculateScore();
+    window.scrollTo(0, 0);
   }
 
   calculateScore() {
@@ -54,24 +55,27 @@ export class QuizComponent implements OnInit {
 
   updateMetaTags () {
     this.title.setTitle(this.quiz.quizTitle);
-    this.meta.updateTag( {name: "description", content: this.quiz.quizTitle + this.quiz.quizDescription});
+    this.meta.updateTag( {name: "description", content: this.quiz.quizDescription});
     this.meta.updateTag( {name: "keywords", content: this.quiz.quizMetaTag});
+    this.meta.updateTag( {name: "robots", content: "INDEX, FOLLOW"});
+    this.meta.updateTag( {name: "language", content: "English"});
 
-    this.meta.updateTag( {name: "og:title", content: this.quiz.quizTitle});
-    this.meta.updateTag( {name: "og:description", content: this.quiz.quizDescription});
-    this.meta.updateTag( {name: "og:url", content: "https://www.gktrivia.com/quizzes/"+this.quiz.quizId});
-    this.meta.updateTag( {name: "og:site_name", content: "Gktrivia"});
-    this.meta.updateTag( {name: "og:type", content: "game"});
-    this.meta.updateTag( {name: "og:image", content: this.quiz.quizThumbNail});
-    this.meta.updateTag( {name: "fb:app_id", content: "694150900972156"});
+    this.meta.updateTag( {property: "og:title", content: this.quiz.quizTitle});
+    this.meta.updateTag( {property: "", content: this.quiz.quizTitle});
+    this.meta.updateTag( {property: "og:description", content: this.quiz.quizDescription});
+    this.meta.updateTag( {property: "og:url", content: "https://www.gktrivia.com/quizzes/"+this.quiz.quizId});
+    this.meta.updateTag( {property: "og:site_name", content: "Gktrivia"});
+    this.meta.updateTag( {property: "og:type", content: "game"});
+    this.meta.updateTag( {property: "og:image", content: "https://www.gktrivia.com/assets/image/"+this.quiz.quizThumbNail});
+    this.meta.updateTag( {property: "fb:app_id", content: "694150900972156"});
 
 
-    this.meta.updateTag( {name: "twitter:title", content: this.quiz.quizTitle});
-    this.meta.updateTag( {name: "twitter:description", content: this.quiz.quizDescription});
-    this.meta.updateTag( {name: "twitter:image", content: this.quiz.quizThumbNail});
-    this.meta.updateTag( {name: "twitter:url", content: "https://www.gktrivia.com/quizzes/"+this.quiz.quizId});
-    this.meta.updateTag( {name: "twitter:card", content: "summary_large_image"});
-    this.meta.updateTag( {name: "twitter:site", content: "Gktrivia"});
-    this.meta.updateTag( {name: "twitter:creator", content: "Gktrivia"});
+    this.meta.updateTag( {property: "twitter:title", content: this.quiz.quizTitle});
+    this.meta.updateTag( {property: "twitter:description", content: this.quiz.quizDescription});
+    this.meta.updateTag( {property: "twitter:image", content: "https://www.gktrivia.com/assets/image/"+this.quiz.quizThumbNail});
+    this.meta.updateTag( {property: "twitter:url", content: "https://www.gktrivia.com/quizzes/"+this.quiz.quizId});
+    this.meta.updateTag( {property: "twitter:card", content: "summary_large_image"});
+    this.meta.updateTag( {property: "twitter:site", content: "Gktrivia"});
+    this.meta.updateTag( {property: "twitter:creator", content: "Gktrivia"});
   }
 }

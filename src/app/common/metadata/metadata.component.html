@@ -1,7 +1,10 @@
 <div class="container">
   <div class="row">
-<button type="button" class="btn btn-outline-primary col btn-share" (click)="fbShare()">Share Score</button>
-<button type="button" class="btn btn-outline-primary col btn-share" (click)="fbShare()">Challenge others</button>
+    <!--<div class="fb-share-button" data-href="quizUrl" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{quizUrl&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>-->
+    <button type="button" class="btn btn-outline-primary col btn-share" (click)="fbShare();">Challenge others</button>
+    <!--<button type="button" class="btn btn-outline-primary col btn-share" (click)="fbShareWithScore();">Share Score</button>-->
+    <button type="button" class="btn btn-outline-primary col btn-share" (click)="findNextQuiz();">Find next Quiz</button>
+
   </div>
 </div>
 <router-outlet></router-outlet>

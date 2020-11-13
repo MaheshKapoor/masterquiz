@@ -1,0 +1,140 @@
+{
+  "data":{
+    "quizTitle":"Telstra: Australia's number#1 service provider",
+    "quizTotalQuestions": "",
+    "quizDescription": "Trivia Quiz Challenge. Do you know about Telstra enough?",
+    "quizMetaTag": "Trivia, Quiz, gk question, iq, general knowledge questions and answers, Hard Quiz, Telstra Quiz",
+    "quizThumbNail": "telstra.jpg",
+    "quizId": "19850316",
+    "quizLevel": "Beginner",
+    "quizScore": "",
+    "questions":[
+      {
+        "options":[
+          "1960",
+          "1965",
+          "1970",
+          "1975"
+        ],
+        "questionImg":null,
+        "questionId":0,
+        "question":"When was Telstra Corporation founded?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Pay TV Service",
+          "Energy Service",
+          "Data Service",
+          "Network Service"
+        ],
+        "questionImg":null,
+        "questionId":1,
+        "question":"Which service doesn't belong to Telstra's portfolio?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "True",
+          "False"
+        ],
+        "questionImg":null,
+        "questionId":2,
+        "question":"Telstra Corporation is a private company.",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Perth",
+          "Melbourne",
+          "Sydney",
+          "Brisbane"
+        ],
+        "questionImg":null,
+        "questionId":3,
+        "question":"Telstra Corporation is based in which city?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "True",
+          "False"
+        ],
+        "questionImg":null,
+        "questionId":4,
+        "question":"Telstra's network services is available outside Australia.",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "2016",
+          "2014",
+          "2000",
+          "2015"
+        ],
+        "questionImg":null,
+        "questionId":5,
+        "question":"When Telstra corporation appointed Andrew Penn as a CEO?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Vodafone",
+          "Telstra",
+          "Optus",
+          "TPG"
+        ],
+        "questionImg":null,
+        "questionId":6,
+        "question":"Which provider supports the network service for Belong company?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Brisbane",
+          "Melbourne",
+          "Sydney",
+          "Canberra"
+        ],
+        "questionImg":null,
+        "questionId":7,
+        "question":"Telstra Tower and Museum is located in which city?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "13 00 00",
+          "13 20 20",
+          "13 11 13",
+          "13 20 00"
+        ],
+        "questionImg":null,
+        "questionId":8,
+        "question":"What is the Telstra's customer service number in Australia?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Diff’rent Strokes",
+          "Its my life",
+          "Clair de Lune",
+          "A Beautiful Mine"
+        ],
+        "questionImg":null,
+        "questionId":9,
+        "question":"Telstra's theme song is based on which song?",
+        "answer":2,
+        "answerSelected":-1
+      }
+    ]
+  }
+}

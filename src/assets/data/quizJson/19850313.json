@@ -1,0 +1,145 @@
+{
+  "data":{
+    "quizTitle":"Ultimate Maths Puzzles",
+    "quizTotalQuestions": "",
+    "quizDescription": "Trivia Puzzles Challenge. Can you score 7/10?",
+    "quizMetaTag": "Trivia, Quiz, gk question, iq, general knowledge questions, Maths Puzzles quiz",
+    "quizThumbNail": "maths_puzzles.png",
+    "quizId": "19850313",
+    "quizLevel": "Beginner",
+    "quizScore": "",
+    "questions":[
+      {
+        "options":[
+          "8",
+          "12",
+          "9",
+          "10"
+        ],
+        "questionImg":null,
+        "questionId":0,
+        "question":"There are a certain number of books on my bookshelf. I took a book which is 6th from the right and 4th from the left. Can you find out the number of books on my shelf?",
+        "answer":2,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "14",
+          "8",
+          "10",
+          "9"
+        ],
+        "questionImg":"null",
+        "questionId":1,
+        "question":"Lucy has 7 daughters and each of them has a brother. Can you figure out the total number of kids Lucy have?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "40",
+          "60",
+          "30",
+          "50"
+        ],
+        "questionImg":"null",
+        "questionId":2,
+        "question":" John is twice as old as his little sister. He is also half as old as their dad. Over a period of 50 years, the age of the sister will become half of their dad’s age. What is the age of the John now?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "6 Days",
+          "5 Days",
+          "9 Days",
+          "7 Days"
+        ],
+        "questionImg":null,
+        "questionId":3,
+        "question":"Amy and Alex can do a work in 4 hours and 12 hours respectively. Amy starts the work at 6 AM and they work alternately for one hour each. When will the work be completed? ",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "54",
+          "73",
+          "65",
+          "99"
+        ],
+        "questionImg":null,
+        "questionId":4,
+        "question":"100 people standing in a circle in an order 1 to 100. No.1 has a sword. He kills next person (i.e. no. 2) and gives sword to next to next (i.e no.3). All person does the same until only 1 survives. Which number survives at the last?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "7",
+          "20",
+          "12",
+          "10"
+        ],
+        "questionImg":null,
+        "questionId":5,
+        "question":"100 girls were attending a party. 85 of them had a red bag, 75 of them have worn brown shoes, 60 of them came with an umbrella and 90 girls wore a ring. How many girls have had all these four items?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "40%",
+          "44%",
+          "20%",
+          "30%"
+        ],
+        "questionImg":null,
+        "questionId":6,
+        "question":"What is the percentage increase in the area of a rectangle, if each of its sides is increased by 20%?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "22",
+          "48",
+          "44",
+          "32"
+        ],
+        "questionImg":null,
+        "questionId":7,
+        "question":"How many times are the hands of a clock at right angle in a day?",
+        "answer":2,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "200 meters",
+          "190 meters",
+          "220 meters",
+          "180 meters"
+        ],
+        "questionImg":null,
+        "questionId":8,
+        "question":"A train is running at a speed of 40 km/hr and it crosses a post in 18 seconds. What is the length of the train?",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "6",
+          "7",
+          "4",
+          "5"
+        ],
+        "questionImg":null,
+        "questionId":9,
+        "question":"A vendor bought bananas at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+        "answer":3,
+        "answerSelected":-1
+      }
+
+    ]
+  }
+}

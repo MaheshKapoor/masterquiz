@@ -21,7 +21,9 @@
             "aot": true,
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/sitemap.xml",
+              "src/robots.txt"
             ],
             "styles": [
               "src/styles.css",
@@ -168,7 +170,13 @@
               "/",
               "/quizzes",
               "/quizzes/19850310",
-              "/quizzes/19850311"
+              "/quizzes/19850311",
+              "/quizzes/19850312",
+              "/quizzes/19850313",
+              "/quizzes/19850314",
+              "/quizzes/19850315",
+              "/quizzes/19850316",
+              "/quizzes/19850317"
             ]
           },
           "configurations": {

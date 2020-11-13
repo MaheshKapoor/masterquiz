@@ -21,6 +21,8 @@ import { PrivacyComponent } from './common/privacy/privacy.component';
 import { AboutusComponent } from './common/aboutus/aboutus.component';
 import { DisclaimerComponent } from './common/disclaimer/disclaimer.component';
 import { TermsComponent } from './common/terms/terms.component';
+import { AustraliaComponent } from './quizzes/australia/australia.component';
+import { CountryComponent } from './quizzes/country/country.component';
 
 @NgModule({
   declarations: [
@@ -38,7 +40,9 @@ import { TermsComponent } from './common/terms/terms.component';
     PrivacyComponent,
     AboutusComponent,
     DisclaimerComponent,
-    TermsComponent
+    TermsComponent,
+    AustraliaComponent,
+    CountryComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'serverApp' }),

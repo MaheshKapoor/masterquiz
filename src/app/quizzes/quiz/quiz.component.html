@@ -2,7 +2,7 @@
   <!-- title -->
   <div class="row">
     <div class="heading-large">
-      <h2>{{ quizTitle }}</h2>
+      <h1>{{ quizTitle }}</h1>
     </div>
   </div>
 
@@ -12,13 +12,15 @@
     <div *ngIf="showQuiz">
       <app-quiz-question [quiz]="quiz"></app-quiz-question>
       <div class="row">
-        <button type="button" class="btn btn-primary btn-lg btn-block btn-quiz-submit" (click)="onSubmit()">Check Your Score</button>
+        <button type="button" class="btn btn-primary btn-lg btn-block btn-quiz-submit" (click)="onSubmit();">Check Your Score</button>
       </div>
     </div>
 
     <!--Quiz Answer -->
-    <div *ngIf="showQuizAnswer">
+    <div *ngIf="showQuizAnswer" >
+      <app-quiz-result [quiz]="quiz" [totalScore]="totalScore"></app-quiz-result>
       <app-quiz-answer [quiz]="quiz" [totalScore]="totalScore"></app-quiz-answer>
+      <app-quiz-result [quiz]="quiz" [totalScore]="totalScore"></app-quiz-result>
     </div>
 
   </div>

@@ -1,0 +1,144 @@
+{
+  "data":{
+    "quizTitle":"Hard Quiz for Elite People",
+    "quizTotalQuestions": "",
+    "quizDescription": "Trivia Quiz Challenge. Can you score 4/10?",
+    "quizMetaTag": "Trivia, Quiz, gk question, iq, general knowledge questions and answers, Hard Quiz ",
+    "quizThumbNail": "hard_gk.png",
+    "quizId": "19850315",
+    "quizLevel": "Expert",
+    "quizScore": "",
+    "questions":[
+      {
+        "options":[
+          "Mercury",
+          "Helium",
+          "Hydrogen",
+          "Uranium"
+        ],
+        "questionImg":null,
+        "questionId":0,
+        "question":"Which is the only common metal that is a liquid at room temperature?",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Hydro Energy",
+          "Wind Energy",
+          "Electricity Energy",
+          "Nuclear Energy"
+        ],
+        "questionImg":null,
+        "questionId":1,
+        "question":"Uranium is used to create which kind of energy?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Pomeranian",
+          "Pug",
+          "Poodle",
+          "German Shepherd"
+        ],
+        "questionImg":null,
+        "questionId":2,
+        "question":"The dog on the Hutch Vodafone ads (in 2003) is of which breed?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Tennis",
+          "Swimming",
+          "Shooting",
+          "Badminton"
+        ],
+        "questionImg":null,
+        "questionId":3,
+        "question":"Abhinav Bindra won a gold medal in 2008 Winter Olympics in which sport?",
+        "answer":2,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "California",
+          "Paris",
+          "New York",
+          "London"
+        ],
+        "questionImg":null,
+        "questionId":4,
+        "question":"Google is based in which state?",
+        "answer":0,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Black",
+          "Brown",
+          "Green",
+          "Blue"
+        ],
+        "questionImg":null,
+        "questionId":5,
+        "question":"What colour is the neck of a peacock?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Insects",
+          "Plants",
+          "Animals",
+          "Snakes"
+        ],
+        "questionImg":null,
+        "questionId":6,
+        "question":"What are herbicides designed to kill?",
+        "answer":1,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Tiger",
+          "Koala",
+          "Elephant",
+          "Kangaroo"
+        ],
+        "questionImg":null,
+        "questionId":7,
+        "question":"What is the national animal of Australia?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Washington DC",
+          "Canberra",
+          "Victoria",
+          "Ottawa"
+        ],
+        "questionImg":null,
+        "questionId":8,
+        "question":"What is the capital of Canada?",
+        "answer":3,
+        "answerSelected":-1
+      },
+      {
+        "options":[
+          "Aditya Chopra",
+          "Sanjay Leela Bhansali",
+          "Ashutosh Gowariker",
+          "Karan Johar"
+        ],
+        "questionImg":null,
+        "questionId":9,
+        "question":"Who was the director of Bollywood movie - Lagan?",
+        "answer":2,
+        "answerSelected":-1
+      }
+    ]
+  }
+}

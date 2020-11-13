@@ -1,20 +1,20 @@
 {
   "data":{
-    "quizTitle":"Trivia Quiz For Bollywood Lovers",
+    "quizTitle":"Trivia Quiz For Bollywood Lovers- DDLJ",
     "quizTotalQuestions": "",
     "quizDescription": "Trivia Bollywood Challenge. Can you score 5/10?",
     "quizMetaTag": "Trivia, Quiz, gk question, iq, general knowledge questions, Bollywood quiz",
-    "quizThumbNail": "https://www.gktrivia.com/assets/data/image/bollywood-5.png",
+    "quizThumbNail": "bollywood-5.png",
     "quizId": "19850311",
     "quizLevel": "Beginner",
     "quizScore": "",
     "questions":[
       {
         "options":[
-          "Matutinal",
+          "Anurag Kashyap",
           "Aditya Chopra",
           "Karan Johar",
-          "Nocturnal"
+          "Sanjay Leela Bhansali"
         ],
         "questionImg":null,
         "questionId":0,
@@ -110,7 +110,7 @@
         ],
         "questionImg":null,
         "questionId":7,
-        "question":"What was the estimated Box office earning by Bollywood movie-Dilwale Dulhania Le Jayenge?",
+        "question":"What was the estimated Box office earning by Bollywood movie-Dilwale Dulhania Le Jayenge (in INR)?",
         "answer":1,
         "answerSelected":-1
       },

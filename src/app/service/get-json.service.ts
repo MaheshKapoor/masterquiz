@@ -12,7 +12,7 @@ export class GetJsonService {
 
   public getQuizJsonData (jsonName:string): Observable<any> {
     const fileUrl = "https://www.gktrivia.com/assets/data/quizJson/" + jsonName + ".json";
-    //const fileUrl = "/assets/data/quizJson/" + jsonName + ".json";
+   //const fileUrl = "/assets/data/quizJson/" + jsonName + ".json";
     return this.http.get(fileUrl);
   }
 
